@@ -1,0 +1,2 @@
+2020-08-21T21:12:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\divi\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\SchedulerTraits.php on line 10
+

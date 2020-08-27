@@ -1,0 +1,1025 @@
+# Copyright (C) 2020 Divi People
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 Styler for Divi 1.1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cf7-styler-for-"
+"divi\n"
+"POT-Creation-Date: 2020-06-29 16:07:39+00:00\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/admin/admin.php:40 wp_org/tags/1.1.0/includes/admin/admin.php:40
+#: wp_org/tags/1.1.1/includes/admin/admin.php:40
+#: wp_org/tags/1.1.2/includes/admin/admin.php:40
+#: wp_org/tags/1.2.3/includes/admin/admin.php:40
+#: wp_org/trunk/includes/admin/admin.php:40
+msgid "Rollback to Previous Version"
+msgstr ""
+
+#: includes/admin/admin.php:66 wp_org/tags/1.1.0/includes/admin/admin.php:66
+#: wp_org/tags/1.1.1/includes/admin/admin.php:66
+#: wp_org/tags/1.1.2/includes/admin/admin.php:66
+#: wp_org/tags/1.2.3/includes/admin/admin.php:66
+#: wp_org/trunk/includes/admin/admin.php:66
+msgid "CF7 Styler for Divi"
+msgstr ""
+
+#: includes/admin/admin.php:159 wp_org/tags/1.1.0/includes/admin/admin.php:150
+#: wp_org/tags/1.1.1/includes/admin/admin.php:150
+#: wp_org/tags/1.1.2/includes/admin/admin.php:150
+#: wp_org/tags/1.2.3/includes/admin/admin.php:150
+#: wp_org/trunk/includes/admin/admin.php:150
+msgid ""
+"Your WordPress version does not yet support the WP_Debug_Data class, please "
+"update."
+msgstr ""
+
+#: includes/admin/admin.php:172 wp_org/tags/1.1.0/includes/admin/admin.php:163
+#: wp_org/tags/1.1.1/includes/admin/admin.php:163
+#: wp_org/tags/1.1.2/includes/admin/admin.php:163
+#: wp_org/tags/1.2.3/includes/admin/admin.php:163
+#: wp_org/trunk/includes/admin/admin.php:163
+msgid "Copy site info to clipboard"
+msgstr ""
+
+#: includes/admin/admin.php:174 wp_org/tags/1.1.0/includes/admin/admin.php:165
+#: wp_org/tags/1.1.1/includes/admin/admin.php:165
+#: wp_org/tags/1.1.2/includes/admin/admin.php:165
+#: wp_org/tags/1.2.3/includes/admin/admin.php:165
+#: wp_org/trunk/includes/admin/admin.php:165
+msgid "Copied!"
+msgstr ""
+
+#: includes/admin/rollback.php:82
+#: wp_org/tags/1.1.0/includes/admin/rollback.php:82
+#: wp_org/tags/1.1.1/includes/admin/rollback.php:82
+#: wp_org/tags/1.1.2/includes/admin/rollback.php:82
+#: wp_org/tags/1.2.3/includes/admin/rollback.php:82
+#: wp_org/trunk/includes/admin/rollback.php:82
+msgid "CF7 Styler Rollback to Previous Version"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:14
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:27
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:27
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:27
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:27
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:27
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:14
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:14
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:14
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:14
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:14
+msgid "Contact Form 7 Styler"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:21
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:41
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:39
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:39
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:39
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:39
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:21
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:21
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:21
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:21
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:21
+msgid "General"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:26
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:26
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:26
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:26
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:26
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:26
+msgid "Common"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:58
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:58
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:58
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:58
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:58
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:58
+msgid "Fields"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:50
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:48
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:48
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:48
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:48
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:59
+msgid "Radio & Checkbox"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:60
+#: includes/modules/CF7Styler/CF7Styler.php:626
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:60
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:601
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:60
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:626
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:60
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:626
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:60
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:626
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:60
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:626
+msgid "Button"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:61
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:61
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:61
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:61
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:61
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:61
+msgid "Message"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:68
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:47
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:61
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:45
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:45
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:45
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:45
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:59
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:68
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:68
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:68
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:68
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:68
+msgid "Form Fields"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:72
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:72
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:72
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:72
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:72
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:72
+msgid "Form Label"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:92
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:94
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:91
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:91
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:92
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:92
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:92
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:92
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:92
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:92
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:92
+msgid "Select a Contact form"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:111
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:111
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:111
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:111
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:111
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:111
+msgid "Show Form Header"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:114
+#: includes/modules/CF7Styler/CF7Styler.php:159
+#: includes/modules/CF7Styler/CF7Styler.php:282
+#: includes/modules/CF7Styler/CF7Styler.php:340
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:147
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:147
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:114
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:143
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:266
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:321
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:114
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:282
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:340
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:114
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:282
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:340
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:114
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:282
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:340
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:114
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:282
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:340
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:115
+#: includes/modules/CF7Styler/CF7Styler.php:160
+#: includes/modules/CF7Styler/CF7Styler.php:283
+#: includes/modules/CF7Styler/CF7Styler.php:341
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:148
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:148
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:115
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:144
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:267
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:322
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:115
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:160
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:341
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:115
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:160
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:341
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:115
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:160
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:341
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:115
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:160
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:341
+msgid "No"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:138
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:122
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:138
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:138
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:138
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:138
+msgid "Header Title"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:147
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:131
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:147
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:147
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:147
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:147
+msgid "Header Text"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:156
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:140
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:156
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:156
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:156
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:156
+msgid "Use Icon"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:170
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:154
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:170
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:170
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:170
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:170
+msgid "Header Image"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:172
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:156
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:172
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:172
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:172
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:172
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:173
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:157
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:173
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:173
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:173
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:173
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:174
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:158
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:174
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:174
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:174
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:174
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:183
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:167
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:183
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:183
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:183
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:183
+msgid "Header Icon"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:194
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:178
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:194
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:194
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:194
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:194
+msgid "Form Header Background"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:206
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:190
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:206
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:206
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:206
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:206
+msgid "Header Padding"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:219
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:203
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:219
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:219
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:219
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:219
+msgid "Bottom Spacing"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:237
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:221
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:237
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:237
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:237
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:237
+msgid "Header Image/Icon Background"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:249
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:233
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:249
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:249
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:249
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:249
+msgid "Header Icon Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:262
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:246
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:262
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:262
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:262
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:262
+msgid "Form Background"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:270
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:254
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:270
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:270
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:270
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:270
+msgid "Form Padding"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:279
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:263
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:279
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:279
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:279
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:279
+msgid "Fullwidth Button"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:291
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:275
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:291
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:291
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:291
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:291
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:294
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:278
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:294
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:294
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:294
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:294
+msgid "Left"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:295
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:279
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:295
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:295
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:295
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:295
+msgid "Center"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:296
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:280
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:296
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:296
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:296
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:296
+msgid "Right"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:307
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:115
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:113
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:113
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:114
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:114
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:288
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:307
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:307
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:307
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:307
+msgid "Select Form"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:311
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:119
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:117
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:117
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:118
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:118
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:292
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:311
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:311
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:311
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:311
+msgid "Choose a contact form to display."
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:319
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:129
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:127
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:127
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:126
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:126
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:300
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:319
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:319
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:319
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:319
+msgid "Form Field Background Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:328
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:138
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:136
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:136
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:135
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:135
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:309
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:328
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:328
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:328
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:328
+msgid "Form Field Active Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:336
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:143
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:143
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:317
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:336
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:336
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:336
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:336
+msgid "Enable Custom Styles"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:352
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:146
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:144
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:144
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:333
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:352
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:352
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:352
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:352
+msgid "Size"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:370
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:161
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:159
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:177
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:177
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:351
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:370
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:370
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:370
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:370
+msgid "Background Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:381
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:169
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:167
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:167
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:188
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:188
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:362
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:381
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:381
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:381
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:381
+msgid "Selected Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:393
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:178
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:176
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:176
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:200
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:200
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:374
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:393
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:393
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:393
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:393
+msgid "Border Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:405
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:187
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:185
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:185
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:212
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:212
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:386
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:405
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:405
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:405
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:405
+msgid "Border Size"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:423
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:202
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:200
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:200
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:230
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:230
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:404
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:423
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:423
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:423
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:423
+msgid "Label Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:435
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:211
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:209
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:209
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:242
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:242
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:416
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:435
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:435
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:435
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:435
+msgid "Message Text Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:443
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:219
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:217
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:217
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:250
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:250
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:424
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:443
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:443
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:443
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:443
+msgid "Message Background Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:451
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:227
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:225
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:225
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:258
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:258
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:432
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:451
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:451
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:451
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:451
+msgid "Border Highlight Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:460
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:236
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:234
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:234
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:267
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:267
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:441
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:460
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:460
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:460
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:460
+msgid "Success Message Text Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:468
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:244
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:242
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:242
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:275
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:275
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:449
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:468
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:468
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:468
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:468
+msgid "Success Message Background Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:476
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:252
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:250
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:250
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:457
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:476
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:476
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:476
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:476
+msgid "Success Border Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:485
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:261
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:259
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:259
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:292
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:292
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:466
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:485
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:485
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:485
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:485
+msgid "Error Message Text Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:493
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:269
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:267
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:267
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:300
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:300
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:474
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:493
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:493
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:493
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:493
+msgid "Error Message Background Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:501
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:277
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:275
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:275
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:308
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:308
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:482
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:501
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:501
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:501
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:501
+msgid "Error Border Color"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:509
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:285
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:283
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:316
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:316
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:490
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:509
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:509
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:509
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:509
+msgid "Message Padding"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:523
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:301
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:299
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:299
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:332
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:332
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:504
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:523
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:523
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:523
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:523
+msgid "Message Margin Top"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:554
+#: includes/modules/CF7Styler/CF7Styler.php:650
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:345
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:406
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:432
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:343
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:404
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:430
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:343
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:404
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:430
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:376
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:434
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:376
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:434
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:535
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:625
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:554
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:650
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:554
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:650
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:554
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:650
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:554
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:650
+msgid "Field"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:577
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:371
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:369
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:369
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:400
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:400
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:558
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:577
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:577
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:577
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:577
+msgid "Label"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:587
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:49
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:47
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:47
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:47
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:47
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:568
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:587
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:587
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:587
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:587
+msgid "Placeholder"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:600
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:581
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:600
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:600
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:600
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:600
+msgid "Title"
+msgstr ""
+
+#: includes/modules/CF7Styler/CF7Styler.php:613
+#: wp_org/tags/1.1.0/includes/modules/CF7Styler/CF7Styler.php:591
+#: wp_org/tags/1.1.1/includes/modules/CF7Styler/CF7Styler.php:613
+#: wp_org/tags/1.1.2/includes/modules/CF7Styler/CF7Styler.php:613
+#: wp_org/tags/1.2.3/includes/modules/CF7Styler/CF7Styler.php:613
+#: wp_org/trunk/includes/modules/CF7Styler/CF7Styler.php:613
+msgid "Text"
+msgstr ""
+
+#: includes/notice.php:28 wp_org/tags/1.0.0/cf7-styler.php:93
+#: wp_org/tags/1.0.0/trunk/cf7-styler.php:93
+#: wp_org/tags/1.0.2/cf7-styler.php:93 wp_org/tags/1.0.3/cf7-styler.php:196
+#: wp_org/tags/1.0.4/cf7-styler.php:196
+#: wp_org/tags/1.1.0/includes/notice.php:29
+#: wp_org/tags/1.1.1/includes/notice.php:27
+#: wp_org/tags/1.1.2/includes/notice.php:27
+#: wp_org/tags/1.2.3/includes/notice.php:27 wp_org/trunk/includes/notice.php:27
+msgid ""
+"Contact Form 7 Styler for Divi requires Coctact Form 7 plugin to be active. "
+"Please activate Contact Form 7 to continue."
+msgstr ""
+
+#: includes/notice.php:33 wp_org/tags/1.0.0/cf7-styler.php:95
+#: wp_org/tags/1.0.0/trunk/cf7-styler.php:95
+#: wp_org/tags/1.0.2/cf7-styler.php:95 wp_org/tags/1.0.3/cf7-styler.php:197
+#: wp_org/tags/1.0.4/cf7-styler.php:197
+#: wp_org/tags/1.1.0/includes/notice.php:34
+#: wp_org/tags/1.1.1/includes/notice.php:32
+#: wp_org/tags/1.1.2/includes/notice.php:32
+#: wp_org/tags/1.2.3/includes/notice.php:32 wp_org/trunk/includes/notice.php:32
+msgid "Activate Contact Form 7"
+msgstr ""
+
+#: includes/notice.php:48 wp_org/tags/1.0.0/cf7-styler.php:107
+#: wp_org/tags/1.0.0/trunk/cf7-styler.php:107
+#: wp_org/tags/1.0.2/cf7-styler.php:107 wp_org/tags/1.0.3/cf7-styler.php:207
+#: wp_org/tags/1.0.4/cf7-styler.php:207
+#: wp_org/tags/1.1.0/includes/notice.php:49
+#: wp_org/tags/1.1.1/includes/notice.php:47
+#: wp_org/tags/1.1.2/includes/notice.php:47
+#: wp_org/tags/1.2.3/includes/notice.php:47 wp_org/trunk/includes/notice.php:47
+msgid ""
+"Contact Form 7 Styler for Divi plugin to be installed and activated. Please "
+"install Contact Form 7 to continue."
+msgstr ""
+
+#: includes/notice.php:53 wp_org/tags/1.0.0/cf7-styler.php:109
+#: wp_org/tags/1.0.0/trunk/cf7-styler.php:109
+#: wp_org/tags/1.0.2/cf7-styler.php:109 wp_org/tags/1.0.3/cf7-styler.php:208
+#: wp_org/tags/1.0.4/cf7-styler.php:208
+#: wp_org/tags/1.1.0/includes/notice.php:54
+#: wp_org/tags/1.1.1/includes/notice.php:52
+#: wp_org/tags/1.1.2/includes/notice.php:52
+#: wp_org/tags/1.2.3/includes/notice.php:52 wp_org/trunk/includes/notice.php:52
+msgid "Install Contact Form 7"
+msgstr ""
+
+#: includes/notice.php:152 wp_org/tags/1.1.2/includes/notice.php:129
+#: wp_org/tags/1.2.3/includes/notice.php:129
+#: wp_org/trunk/includes/notice.php:129
+msgid "Show Your Love: "
+msgstr ""
+
+#: includes/notice.php:152 wp_org/tags/1.1.2/includes/notice.php:129
+#: wp_org/tags/1.2.3/includes/notice.php:129
+#: wp_org/trunk/includes/notice.php:129
+msgid ""
+"We love to have you in Divi People family. We are making it more awesome "
+"everyday. Take your 2 minutes to review the plugin and spread the love to "
+"encourage us to keep it going."
+msgstr ""
+
+#: includes/notice.php:154 wp_org/tags/1.1.2/includes/notice.php:131
+#: wp_org/tags/1.2.3/includes/notice.php:131
+#: wp_org/trunk/includes/notice.php:131
+msgid "Happy To Help"
+msgstr ""
+
+#: includes/notice.php:155 wp_org/tags/1.1.2/includes/notice.php:132
+#: wp_org/tags/1.2.3/includes/notice.php:132
+#: wp_org/trunk/includes/notice.php:132
+msgid "Hide Notification"
+msgstr ""
+
+#: includes/notice.php:187
+msgid "Wow Divi Carousel Lite: "
+msgstr ""
+
+#: includes/notice.php:188
+msgid ""
+"It's Divi touch-enabled carousel plugin that lets you create a beautiful "
+"responsive slider or carousel."
+msgstr ""
+
+#: includes/notice.php:193
+msgid "FREE DOWNLOAD"
+msgstr ""
+
+#: includes/tag.php:15 wp_org/tags/1.1.0/includes/tag.php:15
+#: wp_org/tags/1.1.1/includes/tag.php:15 wp_org/tags/1.1.2/includes/tag.php:15
+#: wp_org/tags/1.2.3/includes/tag.php:15 wp_org/trunk/includes/tag.php:15
+msgid "row"
+msgstr ""
+
+#: includes/tag.php:16 wp_org/tags/1.1.0/includes/tag.php:16
+#: wp_org/tags/1.1.1/includes/tag.php:16 wp_org/tags/1.1.2/includes/tag.php:16
+#: wp_org/tags/1.2.3/includes/tag.php:16 wp_org/trunk/includes/tag.php:16
+msgid "1-col"
+msgstr ""
+
+#: includes/tag.php:17 wp_org/tags/1.1.0/includes/tag.php:17
+#: wp_org/tags/1.1.1/includes/tag.php:17 wp_org/tags/1.1.2/includes/tag.php:17
+#: wp_org/tags/1.2.3/includes/tag.php:17 wp_org/trunk/includes/tag.php:17
+msgid "1/2-col"
+msgstr ""
+
+#: includes/tag.php:18 wp_org/tags/1.1.0/includes/tag.php:18
+#: wp_org/tags/1.1.1/includes/tag.php:18 wp_org/tags/1.1.2/includes/tag.php:18
+#: wp_org/tags/1.2.3/includes/tag.php:18 wp_org/trunk/includes/tag.php:18
+msgid "1/3-col"
+msgstr ""
+
+#: includes/tag.php:19 wp_org/tags/1.1.0/includes/tag.php:19
+#: wp_org/tags/1.1.1/includes/tag.php:19 wp_org/tags/1.1.2/includes/tag.php:19
+#: wp_org/tags/1.2.3/includes/tag.php:19 wp_org/trunk/includes/tag.php:19
+msgid "1/4-col"
+msgstr ""
+
+#: includes/tag.php:20 wp_org/tags/1.1.0/includes/tag.php:20
+#: wp_org/tags/1.1.1/includes/tag.php:20 wp_org/tags/1.1.2/includes/tag.php:20
+#: wp_org/tags/1.2.3/includes/tag.php:20 wp_org/trunk/includes/tag.php:20
+msgid "2/3-col"
+msgstr ""
+
+#: includes/tag.php:21 wp_org/tags/1.1.0/includes/tag.php:21
+#: wp_org/tags/1.1.1/includes/tag.php:21 wp_org/tags/1.1.2/includes/tag.php:21
+#: wp_org/tags/1.2.3/includes/tag.php:21 wp_org/trunk/includes/tag.php:21
+msgid "3/4-col"
+msgstr ""
+
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:48
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:46
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:46
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:46
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:46
+msgid "Labels"
+msgstr ""
+
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:51
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:383
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:49
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:381
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:49
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:381
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:49
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:411
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:49
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:411
+msgid "Submit Button"
+msgstr ""
+
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:52
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:50
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:50
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:50
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:50
+msgid "Success / Error Message"
+msgstr ""
+
+#: wp_org/tags/1.0.0/includes/modules/CF7Styler/CF7Styler.php:66
+#: wp_org/tags/1.0.0/trunk/includes/modules/CF7Styler/CF7Styler.php:64
+#: wp_org/tags/1.0.2/includes/modules/CF7Styler/CF7Styler.php:64
+#: wp_org/tags/1.0.3/includes/modules/CF7Styler/CF7Styler.php:64
+#: wp_org/tags/1.0.4/includes/modules/CF7Styler/CF7Styler.php:64
+msgid "Form Labels"
+msgstr ""
+
+#: wp_org/tags/1.0.3/cf7-styler.php:106 wp_org/tags/1.0.4/cf7-styler.php:106
+msgid "Install Divi AiO"
+msgstr ""
+
+#: wp_org/tags/1.1.2/includes/notice.php:133
+#: wp_org/tags/1.2.3/includes/notice.php:133
+#: wp_org/trunk/includes/notice.php:133
+msgid "Buy Wow Carousel for Divi"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Contact Form 7 Styler for Divi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://divipeople.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Design beuatiful contact forms with <strong>Contact Form 7 Styler for Divi</"
+"strong>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Divi People"
+msgstr ""

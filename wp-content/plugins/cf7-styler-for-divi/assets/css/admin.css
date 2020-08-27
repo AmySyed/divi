@@ -1,0 +1,138 @@
+#dvppl-review-notice.dvppl-review-notice {
+	padding: 15px 15px 15px 0;
+	background-color: #fff;
+	margin: 5px 0 15px;
+	border-left: 4px solid transparent;
+}
+
+#dvppl-review-notice .dvppl-review-thumbnail {
+  width: 80px;
+  float: left;
+  line-height: 80px;
+  text-align: center;
+  border-right: 4px solid transparent;
+}
+
+
+#dvppl-review-notice .dvppl-review-thumbnail img {
+  width: 60px;
+  vertical-align: middle;
+	border-radius: 9px;
+}
+
+#dvppl-review-notice .dvppl-review-text {
+  overflow: hidden;
+}
+
+#dvppl-review-notice .dvppl-review-text h3 {
+  font-size: 24px;
+  margin: 0 0 5px;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+#dvppl-review-notice .dvppl-review-text p {
+  font-size: 13px;
+  margin: 0 0 5px;
+}
+
+#dvppl-review-notice .dvppl-review-ul {
+  margin: 0;
+  padding: 0;
+}
+
+#dvppl-review-notice .dvppl-review-ul li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+#dvppl-review-notice .dvppl-review-ul li a {
+  display: inline-block;
+  color: #7d64fe;
+  text-decoration: none;
+  padding-left: 25px;
+  position: relative;
+}
+
+#dvppl-review-notice .notice-dismiss {
+  padding: 0 0 0 26px;
+}
+
+#dvppl-review-notice .dvppl-review-ul li a span {
+  position: absolute;
+  left: 0;
+  top: -2px;
+}
+
+.dipe-wrap {
+  margin: 10px 20px 0 2px;
+}
+
+.dipe-wrap .wp-core-ui .button-primary {
+  background: #04be5b;
+  border-color: rgba(0,0,0,.1);
+  box-shadow: 0 1px 0 #ccc;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #04be5b, 1px 0 1px #04be5b, 0 1px 1px #04be5b, -1px 0 1px #04be5b;
+}
+
+.dipe-wdc-ads {
+  background: #fff;
+  color: #000;
+  border: 1px solid #ddd;
+  padding: 25px;
+}
+
+.dipe-wdc-ads a:hover {
+  outline: 0;
+}
+
+.dipe-wdc-ads ul {
+  list-style-type: square;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.dipe-wdc-ads .button {
+  text-align: center;
+  margin-right: 80px;
+}
+
+.dipe-message {}
+.dipe-message .dipe-message-inner {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.dipe-message .dipe-message-icon {
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+}
+
+.dipe-message .dipe-message-icon img {
+    width: 100%;
+    height: auto;
+    border-radius: 100%;
+}
+
+.dipe-message .dipe-message-content p {
+    font-size: 16px!important;
+}
+
+.dipe-message .dipe-button-notice-wdc {
+    color: #fff;
+    border-color: #5636d1!important;
+    background: #5636d1!important;
+    vertical-align: top;
+}
+
+
+.dipe-message .dipe-button-notice-wdc:hover {
+    color: #fff !important;
+
+}
